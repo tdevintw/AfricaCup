@@ -1,0 +1,15 @@
+{
+    "name": "yasser/mvc",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yasser",
+            "email": "aitelghariyasser@gmail.com"
+        }
+    ],
+    "require": {}
+}
